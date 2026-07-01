@@ -39,6 +39,15 @@ Communication and quality practices are embedded throughout the lifecycle. OctoA
 | Developers | Implement features, collaborate on design and testability |
 | QA/Testing | Validates quality and acceptance criteria |
 | Stakeholders | Provide inputs and approvals |
+| Technical Lead | Owns technical direction, architecture, and implementation quality |
+| Engineering Manager | Team capacity planning, staffing, and sustainable delivery |
+| UX/UI Designer | User flows, interaction design, accessibility, and UI specifications |
+| DevOps / Platform Engineer | CI/CD, deployment automation, environments, and release safety |
+| Business Analyst (BA) | Translates business needs into requirements and acceptance criteria |
+| Customer Success / Support Liaison | Customer insights, feedback loops, and release communications |
+| Security / Compliance Representative | Security, privacy, and compliance controls across the lifecycle |
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for full role definitions and [Role Interaction Matrix](octoacme-role-interaction-matrix.md) for RACI guidance and handoff checklists.
 
 ---
 
@@ -54,3 +63,4 @@ Communication and quality practices are embedded throughout the lifecycle. OctoA
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Standardized process for releasing features to production safely |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Capture learnings and convert them into actionable improvements |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Role definitions and responsibilities used across OctoAcme projects |
+| [Role Interaction Matrix](octoacme-role-interaction-matrix.md) | RACI matrix, handoff checklists, and cross-role decision guide |
