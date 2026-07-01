@@ -138,7 +138,7 @@ Stakeholders are internal or external parties with a vested interest in project 
 
 ---
 
-## Technical Lead / Engineering Lead
+## Technical Lead
 
 ### Role Summary
 The Technical Lead owns technical direction, architecture decisions, and implementation quality standards. They bridge the gap between product requirements and engineering execution.

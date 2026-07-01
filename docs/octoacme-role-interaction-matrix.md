@@ -17,6 +17,8 @@ This document provides a consolidated view of how all OctoAcme roles interact ac
 
 ## RACI Matrix by Lifecycle Phase
 
+> **Column abbreviations:** PM = Project Manager · PdM = Product Manager · Tech Lead = Technical Lead · Eng Mgr = Engineering Manager · Dev = Developers · QA = QA/Testing · UX/UI = UX/UI Designer · DevOps = DevOps/Platform Engineer · BA = Business Analyst · CS = Customer Success/Support Liaison · Sec = Security/Compliance Representative
+
 ### 1. Project Initiation
 
 | Activity | PM | PdM | Tech Lead | Eng Manager | Dev | QA | UX/UI | DevOps | BA | Customer Success | Security |
@@ -31,7 +33,7 @@ This document provides a consolidated view of how all OctoAcme roles interact ac
 
 | Activity | PM | PdM | Tech Lead | Eng Manager | Dev | QA | UX/UI | DevOps | BA | Customer Success | Security |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Backlog creation & prioritization | C | A/R | C | C | C | C | C | C | R | C | C |
+| Backlog creation & prioritization | C | A/R | C | C | C | C | C | C | C | C | C |
 | Acceptance criteria definition | C | A | C | I | C | C | C | I | R | C | C |
 | Technical design & architecture | I | C | A/R | C | R | C | C | C | I | I | C |
 | Effort estimation | C | C | A/R | C | R | C | C | C | C | I | I |
